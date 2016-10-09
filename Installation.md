@@ -34,7 +34,7 @@ Ansonsten sollte die Linux Variante über `stack` auch funktionieren.
 
 ## Linux
 Sofern ihr [`stack` (Haskell)](https://docs.haskellstack.org/en/stable/README/) installiert habt (falls nicht bitte tun), 
-funktioniert das normalerweise über `LTS Haskell 6.18` ganz gut.
+funktioniert das normalerweise über `LTS Haskell 7.1` ganz gut.
 
 Dazu einfach außerhalb irgendeines Projekts `stack install` verwenden.
 
