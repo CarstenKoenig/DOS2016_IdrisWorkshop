@@ -13,6 +13,7 @@ Materialien und Infos für meinen Workshop auf dem [Developer Open Space 2016 in
 
 ## Im Workshop
 
+- [Slides](Slides.pdf)
 - [Übungen](Übungen)
 - [Projekte](Projekte)
 
