@@ -1,6 +1,14 @@
 # IdrisWorkshop
 Materialien und Infos für meinen Workshop auf dem [Developer Open Space 2016 in Leipzig](https://devopenspace.de/)
 
+## Materialien
+
+- [Notizen](Notizen.pdf) aus dem Workshop enthält Lösungen für Übungen etc.
+- [Slides](Slides.pdf)
+- [Beispiele](Beispiele)
+- [Übungen](Übungen)
+- [Projekte](Projekte)
+
 ## Links
 
 - [IDRIS](http://www.idris-lang.org/)
@@ -11,10 +19,5 @@ Materialien und Infos für meinen Workshop auf dem [Developer Open Space 2016 in
 
 ## [Cheat Sheet](CheatSheet.pdf)
 
-## Im Workshop
-
-- [Slides](Slides.pdf)
-- [Übungen](Übungen)
-- [Projekte](Projekte)
 
 
